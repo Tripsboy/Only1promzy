@@ -1,0 +1,10 @@
+.Albums{
+    display: inline-flexbox;
+    margin: 5px;
+    position: relative;
+}
+
+.Albums img{
+    width: 200px;
+    height: auto;
+}
